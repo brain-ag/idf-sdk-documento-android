@@ -1,3 +1,6 @@
+## [3.3.1] - 29-11-2023
+- Correcao: ajustes no tratamento do bitmap, locationInfo (GPS) e cast fragment 
+- 
 ## [3.3.0] - 26-10-2023
 - Melhoria: Alteração da API de tipificação do upload da CNH Digital.
 - Melhoria: Coleta de metadados do processo de upload da CNH Digital.
