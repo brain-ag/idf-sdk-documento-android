@@ -1,3 +1,6 @@
+## [3.3.2] - 07-12-2023
+- Melhoria: Adicionado novo certificado sslpinning 
+
 ## [3.3.1] - 29-11-2023
 - Correcao: ajustes no tratamento do bitmap, locationInfo (GPS) e cast fragment 
 - 
