@@ -1,5 +1,9 @@
+## [3.3.3] - 21-02-2024
+- Correcao: mudanca no bundle para evitar o erro ToolareException
+- Melhoria: inclusao de novas regras para verificar se app executa em emulador
+
 ## [3.3.2] - 07-12-2023
-- Melhoria: Adicionado novo certificado sslpinning 
+- Melhoria: Adicionado novo certificado sslpining 
 
 ## [3.3.1] - 29-11-2023
 - Correcao: ajustes no tratamento do bitmap, locationInfo (GPS) e cast fragment 
