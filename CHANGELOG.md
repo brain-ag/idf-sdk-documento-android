@@ -1,9 +1,16 @@
+## [4.0.0] - 29-02-2024
+- Melhoria: Alterações dos layouts para Nova Experiência.
+- Melhoria: Melhorias no processo de captura.
+- Melhoria: Permitir customização dos parâmetros de textos e cores.
+- Melhoria: Depreciação das flags 'timeoutCapturaManual' e 'orientacaoCaptura'.
+- Melhoria: Inclusão da flag 'tentativasExibicaoBotao'.
+
 ## [3.3.3] - 21-02-2024
-- Correcao: mudanca no bundle para evitar o erro ToolareException
-- Melhoria: inclusao de novas regras para verificar se app executa em emulador
+- Correcao: Mudança no bundle para evitar o erro TooLargeException.
+- Melhoria: Inclusão de novas regras para verificar se app executa em emulador.
 
 ## [3.3.2] - 07-12-2023
-- Melhoria: Adicionado novo certificado sslpining 
+- Melhoria: Adicionado novo certificado sslpinning.
 
 ## [3.3.1] - 29-11-2023
 - Correcao: ajustes no tratamento do bitmap, locationInfo (GPS) e cast fragment 
