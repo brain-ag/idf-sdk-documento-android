@@ -1,3 +1,8 @@
+## [4.0.1] - 18-03-2024
+- Correção(hotfix): Adicionado crop de documentos do lado AB no fluxo de captura sem validação.
+- Correção(hotfix): Ajustar descrição no processo de captura de CNHCel e CNHDigital.
+- Melhoria: Inclusão da flag 'playCaptureSound'.
+
 ## [4.0.0] - 29-02-2024
 - Melhoria: Alterações dos layouts para Nova Experiência.
 - Melhoria: Melhorias no processo de captura.
