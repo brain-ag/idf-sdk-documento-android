@@ -1,3 +1,6 @@
+## [4.0.2] - 19-06-2024
+- Correção(hotfix): Ajustar no processo de CNHDigital.
+
 ## [4.0.1] - 18-03-2024
 - Correção(hotfix): Adicionado crop de documentos do lado AB no fluxo de captura sem validação.
 - Correção(hotfix): Ajustar descrição no processo de captura de CNHCel e CNHDigital.
