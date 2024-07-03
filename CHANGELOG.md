@@ -1,3 +1,6 @@
+## [4.0.3] - 01-07-2024
+- Melhoria: Inclusão da flag 'spoofValidationExceptions' para exceções de spoof.
+
 ## [4.0.2] - 19-06-2024
 - Correção(hotfix): Ajustes no processo de tipificação da CNHDigital.
 
