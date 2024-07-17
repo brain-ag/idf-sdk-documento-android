@@ -1,8 +1,12 @@
+## [4.0.4] - 15-07-2024
+- Melhoria: Ajustar o retorno do objeto do callback (incluindo "statusRequest").
+- Correção(hotfix): Ajustar o retorno do objeto do callback em caso de sucesso ("docType").
+
 ## [4.0.3] - 01-07-2024
 - Melhoria: Inclusão da flag 'spoofValidationExceptions' para exceções de spoof.
 
 ## [4.0.2] - 19-06-2024
-- Correção(hotfix): Ajustes no processo de tipificação da CNHDigital.
+- Correção(hotfix): Ajustar no processo de CNHDigital.
 
 ## [4.0.1] - 18-03-2024
 - Correção(hotfix): Adicionado crop de documentos do lado AB no fluxo de captura sem validação.
