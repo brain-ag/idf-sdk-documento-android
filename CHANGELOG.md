@@ -1,3 +1,6 @@
+## [4.0.5] - 18-07-2024
+- Correção: validação sslpinning.
+
 ## [4.0.4] - 15-07-2024
 - Melhoria: Ajustar o retorno do objeto do callback (incluindo "statusRequest").
 - Correção(hotfix): Ajustar o retorno do objeto do callback em caso de sucesso ("docType").
