@@ -1,5 +1,5 @@
 ## [4.0.6] - 04-10-2024
-- Correção: Validação se o dispositivo é um emulador.
+- Correção: Validação de emuladores.
 
 ## [4.0.5] - 18-07-2024
 - Correção: validação sslpinning.
