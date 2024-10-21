@@ -1,3 +1,6 @@
+## [4.0.7] - 18-07-2024
+- Correção: validação sslpinning.
+
 ## [4.0.6] - 04-10-2024
 - Correção: Validação de emuladores.
 
