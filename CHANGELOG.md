@@ -1,5 +1,9 @@
+## [4.0.8] - 04-12-2024
+- Correção: Inicialização do componente no Android 15.
+- Correção: Protocolos sem ID.
+
 ## [4.0.7] - 21-10-2024
-- Correção: Adição de novo certificado.
+- Correção: adição de novo certificado.
 
 ## [4.0.6] - 04-10-2024
 - Correção: Validação de emuladores.
