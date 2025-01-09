@@ -1,3 +1,6 @@
+## [4.0.9] - 06-01-2025
+- Melhoria: Adicionado DexGuard.
+
 ## [4.0.8] - 04-12-2024
 - Correção: Inicialização do componente no Android 15.
 - Correção: Protocolos sem ID.
