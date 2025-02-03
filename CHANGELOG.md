@@ -1,3 +1,6 @@
+## [4.0.10] - 31-01-2025
+- Melhoria: Adição da possibilidade de customização no Título da Tela de Preview.
+
 ## [4.0.9] - 06-01-2025
 - Melhoria: Adicionado DexGuard.
 
