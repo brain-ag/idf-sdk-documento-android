@@ -1,3 +1,7 @@
+## [4.1.0] - 10-03-2025
+- Melhoria: Adição da captura de outros documentos.
+- Melhoria: Adição do upload de outros documentos digitais.
+
 ## [4.0.10] - 31-01-2025
 - Melhoria: Adição da possibilidade de customização no Título da Tela de Preview.
 
