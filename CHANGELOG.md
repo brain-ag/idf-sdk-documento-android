@@ -1,10 +1,5 @@
-## [4.2.0] - 24-03-2025
-- Melhoria: Atualização de libs para suporte android 15 (16k).
-- Melhoria: Atualização mínimo sdk suportado 24.
-- Melhoria: Atualização java 17.
-- Melhoria: Atualização lib Camerax de 1.1.0 para 1.4.0.
-- Melhoria: Substituição lib TFLite para mediapipe tasks-vision 0.10.20
-- Melhoria: Atualização lib guava 33.4.0
+## [4.1.1] - 28-03-2025
+- Melhoria: Ajustes nos arquivos internos de ofuscação.
 
 ## [4.1.0] - 10-03-2025
 - Melhoria: Adição da captura de outros documentos.
