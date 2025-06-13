@@ -1,3 +1,6 @@
+## [4.1.2] - 13-06-2025
+- Correção: Tratamento de erros que acontecem em casos onde o arquivo não pode ser carregado.
+
 ## [4.1.1] - 28-03-2025
 - Melhoria: Ajustes nos arquivos internos de ofuscação.
 
