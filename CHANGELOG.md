@@ -1,3 +1,6 @@
+## [4.1.3] - 27-06-2025
+- Correção: Identificação de documentos aceitos corrigida.
+
 ## [4.1.2] - 13-06-2025
 - Correção: Tratamento de erros que acontecem em casos onde o arquivo não pode ser carregado.
 
