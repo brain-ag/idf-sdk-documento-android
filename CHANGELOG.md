@@ -1,3 +1,8 @@
+## [4.2.2] - 13-08-2025
+- Melhoria: Atualização de libs para suporte android 15 (16k).
+- Correção: Tratamento de erros para recursos não encontrados.
+- Correção: Tratamento de exceção do modelo tflite pós captura.
+
 ## [4.2.1] - 30-06-2025
 - Correção: Tratamento de erros que acontecem em casos onde o arquivo não pode ser carregado.
 - Correção: Identificação de documentos aceitos corrigida.
