@@ -1,3 +1,7 @@
+## [4.2.3] - 20-10-2025
+- Melhoria: Adicionado novo certificado sslpinning.
+- Correção: Remoção DexGuard.
+
 ## [4.2.2] - 13-08-2025
 - Melhoria: Atualização de libs para suporte android 15 (16k).
 - Correção: Tratamento de erros para recursos não encontrados.
