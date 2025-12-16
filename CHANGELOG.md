@@ -1,3 +1,6 @@
+## [4.2.4] - 03-12-2025
+- Melhoria: Adição de novas customizações: brscan_documento_preview_button_replace_image_color e brscan_documento_exit_confirmation_button_stay_here_color
+
 ## [4.2.3] - 20-10-2025
 - Melhoria: Adicionado novo certificado sslpinning.
 - Correção: Remoção DexGuard.
