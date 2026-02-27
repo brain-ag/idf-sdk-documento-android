@@ -1,3 +1,10 @@
+## [4.2.5] - 26-02-2026
+- Melhoria: Inclusão da flag 'botaoCapturaVisivel' exibe/oculta botão de captura no modo desabilitado.
+- Melhoria: Unificação cnhcel2022 e cnh como apenas cnh no feedback de captura.
+- Correção: Adicionado ícone de thumbnail cnh para cnhcel2022
+- Correção: Tratamentos de null exception
+- Melhoria: Atualização da biblioteca khttp para a versão 4.12.0 
+
 ## [4.2.4] - 03-12-2025
 - Melhoria: Adição de novas customizações: brscan_documento_preview_button_replace_image_color e brscan_documento_exit_confirmation_button_stay_here_color
 
