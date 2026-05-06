@@ -1,3 +1,10 @@
+## [4.2.7] - 06-05-2026
+- Correção: Ajuste na captura sequencial de documentos, impedindo que o verso de um documento fosse capturado indevidamente na segunda imagem.
+- Melhoria: Melhoria: Aprimoramento da identificação da bounding box para recorte (crop) de imagens.
+- Melhoria: Inclusão da flag `verificarLegibilidade` para controle de validação de qualidade do documento. 
+- Melhoria: Padronização do layout da tela de preview para manter consistência com a plataforma iOS.
+
+
 ## [4.2.6] - 10-03-2026
 - Correção: feedback instantâneo lado ab.
 
