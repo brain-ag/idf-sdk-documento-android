@@ -1,3 +1,9 @@
+## [4.2.8] - 15-06-2026
+- Melhoria: Inclusão do novo parâmetro `brscan_documento_captura_lado_ab_nao_aceito` para permitir a configuração da orientação durante a captura de documentos.
+- Alteração: Atualização da mensagem associada ao parâmetro inicial `brscan_documento_captura_estado_inicial`, tornando-a mais clara para o usuário durante o processo de captura.
+- Correção: Não iniciar processo de analise de modelo em realtime, quando flag capturaManual true.
+
+
 ## [4.2.7] - 06-05-2026
 - Correção: Ajuste na captura sequencial de documentos, impedindo que o verso de um documento fosse capturado indevidamente na segunda imagem.
 - Melhoria: Melhoria: Aprimoramento da identificação da bounding box para recorte (crop) de imagens.
